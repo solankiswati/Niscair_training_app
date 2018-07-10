@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.apoorva.trainingapp.userHome"
+    android:background="@drawable/grad">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+    <Button
+        android:id="@+id/add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+
+        android:text="Fill the personal details"
+        android:background="@drawable/back"/>
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="15dp" />
+
+    <Button
+        android:id="@+id/delete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fill Payment details"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/back"/>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="15dp" />
+
+    <Button
+        android:id="@+id/viewApp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View status of the application"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/back"/>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="15dp" />
+
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LOGOUT"
+        android:background="@drawable/back"
+        android:layout_marginTop="30dp"/>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="150dp" />
+
+</LinearLayout>

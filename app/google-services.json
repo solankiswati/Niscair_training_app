@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "434607558883",
+    "firebase_url": "https://trainingapp-bdea1.firebaseio.com",
+    "project_id": "trainingapp-bdea1",
+    "storage_bucket": "trainingapp-bdea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434607558883:android:0cba60a7ad06bf16",
+        "android_client_info": {
+          "package_name": "com.example.apoorva.trainingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434607558883-ocv1903in08iosnja2hph4d8lvktbjp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apoorva.trainingapp",
+            "certificate_hash": "9ea194d15b6386ec840b93e1405338239a394c1b"
+          }
+        },
+        {
+          "client_id": "434607558883-g9rdb8kfape48o8mjppisuvce6vk0opd.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "434607558883-g9rdb8kfape48o8mjppisuvce6vk0opd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV65w625MRnfjS4mCdO_0grAeoh6D0Fco"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434607558883-g9rdb8kfape48o8mjppisuvce6vk0opd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

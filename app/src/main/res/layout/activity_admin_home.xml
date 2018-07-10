@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.apoorva.trainingapp.adminHome"
+    android:background="@drawable/grad"
+
+    >
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+    <Button
+        android:id="@+id/add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add new programmes"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/back"/>
+
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="15dp" />
+
+    <Button
+        android:id="@+id/delete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Delete programmes"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/back"/>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="15dp" />
+
+    <Button
+        android:id="@+id/viewApp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Received application"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/back"/>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="15dp" />
+
+    <Button
+        android:id="@+id/exitAdmin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LOGOUT"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/back"/>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="150dp" />
+
+
+
+</LinearLayout>

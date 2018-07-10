@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TrainingApp</string>
+    <string name="inform1">Please go through the instructions properly.\nClick the button below to read the instructions.</string>
+    <string name="inform2">Create an account on the portal.\nIf you already have an account, Log in to the account.</string>
+    <string name="inform3">Fill the details of the application form after you have created your account or logged in to it.\nYour application will be submitted
+                           and Status will be informed.</string>
+
+
+
+    </resources>
+
